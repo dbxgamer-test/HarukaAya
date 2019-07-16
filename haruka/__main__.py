@@ -134,7 +134,7 @@ def send_start(bot, update):
         pass
 
     #chat = update.effective_chat  # type: Optional[Chat] and unused variable
-    text = "Hey !! I am alive here and working to clean Telegram from rippers. [My creator](https://t.me/Darkbeast842)\n
+    text = "Hey !! I am alive here and working to clean Telegram from rippers. [My creator](https://t.me/Darkbeast842)\n\
             is working hard to ban all rippers. I will automatically remove known rippers ."
 
     text += "Just follow the command to join Federation. You can ask help [here](https://t.me/Technofreaks_by_dbx) \n\n\
