@@ -135,7 +135,7 @@ def send_start(bot, update):
 
     #chat = update.effective_chat  # type: Optional[Chat] and unused variable
     text = "Hey !! I am alive here and working to clean Telegram from rippers. [My creator](https://t.me/Darkbeast842)\n
-is working hard to ban all rippers. I will automatically remove known rippers ."
+            is working hard to ban all rippers. I will automatically remove known rippers ."
 
     text += "Just follow the command to join Federation. You can ask help [here](https://t.me/Technofreaks_by_dbx) \n\n\
 Follow [ANTIRIPPER CHANNEL](https://t.me/antiripper_federation) ( @antiripper_federation ) if you want to keep up with the news,ripper updates and bot downtime!\n\n\
