@@ -134,14 +134,14 @@ def send_start(bot, update):
         pass
 
     #chat = update.effective_chat  # type: Optional[Chat] and unused variable
-    text = "Hey there! My name is Haruka Aya - I'm here to help you manage your groups!\n\
-Click Help button to find out more about how to use me to my full potential.\n\n"
+    text = "Hey !! I am alive here and working to clean Telegram from rippers. [My creator](https://t.me/Darkbeast842)\n
+is working hard to ban all rippers. I will automatically remove known rippers ."
 
-    text += "Join [Haruka Aya Group](https://t.me/HarukaAyaGroup) ( @HarukaAyaGroup ) if you need any support or help\n\n\
-Follow [Haruka Aya](https://t.me/HarukaAya) ( @HarukaAya ) if you want to keep up with the news, updates and bot downtime!\n\n\
-Made with love by @peaktogoo\n\nWant to add me to your group? [Click here!](t.me/HarukaAyaBot?startgroup=true)"
+    text += "Just follow the command to join Federation. You can ask help [here](https://t.me/Technofreaks_by_dbx) \n\n\
+Follow [ANTIRIPPER CHANNEL](https://t.me/antiripper_federation) ( @antiripper_federation ) if you want to keep up with the news,ripper updates and bot downtime!\n\n\
+Want to add me to your group? [Click here!](t.me/HarukaAyaBot?startgroup=true)"
 
-    keyboard = [[InlineKeyboardButton(text="📢 Support Group", url="https://t.me/HarukaAyaGroup")]]
+    keyboard = [[InlineKeyboardButton(text="📢 Support Group", url="https://t.me/Technofreaks_by_DBX")]]
     keyboard += [[InlineKeyboardButton(text="🛠 Control panel", callback_data="cntrl_panel_M")]]
     keyboard += [[InlineKeyboardButton(text="🇺🇸 Language", callback_data="set_lang_"), 
         InlineKeyboardButton(text="❔ Help", callback_data="help_back")]]
